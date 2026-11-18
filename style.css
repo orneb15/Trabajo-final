@@ -57,6 +57,7 @@ nav a.activo {
 
 
 main {
+    max-width: 850px;
     margin: 25px auto;
     padding: 0 15px;
 }
@@ -106,7 +107,8 @@ main li {
 }
 
 img {
-    width: 400px;
+    width: 100%;
+    max-width: 180px;
     height: auto;
     display: block;
     margin: 10px auto;
@@ -127,12 +129,15 @@ img {
 
 iframe {
     width: 100%;
+    max-width: 450px;
     height: 250px;
     display: block;
     margin: 10px auto;
     border-radius: 6px;
     border: none;
 }
+
+
 footer {
     background-color: #d8b4e2;
     color: #4a3b4c;
@@ -148,6 +153,8 @@ footer a {
     font-weight: bold;
     font-size: 13px;
 }
+
+
 footer p {
     color: #4a3b4c;
     font-size: 12px;
