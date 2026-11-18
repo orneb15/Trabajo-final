@@ -4,108 +4,88 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
     background-color: #fcf6f9;
     color: #4a4a4a;
     font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.6;
 }
-
-
 header {
-    background-color: #f4c2c2;
+    background-color: #fdc1c1;
     padding: 15px;
     text-align: center;
-    border-bottom: 3px solid #e8a5a5;
+    border-bottom: 3px solid #d89393;
 }
-
 h1 {
     margin-bottom: 8px;
-    color: #5a3d40;
-    font-size: 26px;
+    color: #53393b;
+    font-size: 25px;
 }
-
 nav {
-    background-color: #d8b4e2;
+    background-color: #bd94c8;
     text-align: center;
     padding: 10px 0;
 }
-
 nav ul {
     list-style: none;
 }
-
 nav li {
     display: inline-block;
     margin: 0 10px;
 }
-
 nav a {
-    color: #4a3b4c;
+    color: #534255;
     font-size: 14px;
     font-weight: bold;
     padding: 5px 10px;
     border-radius: 4px;
 }
-
 nav a:hover, 
 nav a.activo {
     background-color: #fdf0f3;
     color: #d4739d;
 }
-
-
 main {
     max-width: 850px;
     margin: 25px auto;
     padding: 0 15px;
 }
-
 section {
-    background-color: #ffffff;
+    background-color: #8b5a74;
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 8px;
-    border: 1px solid #f2e3ec;
+    border: 1px solid #8b5a74;
 }
-
 article {
     margin-top: 12px;
     padding-top: 12px;
-    border-top: 1px solid #f9f0f4;
+    border-top: 1px solid #a58091;
 }
-
 h2 {
-    color: #d4739d;
+    color: #be7192;
     font-size: 20px;
     margin-bottom: 10px;
     border-bottom: 2px solid #fce8f0;
     padding-bottom: 4px;
 }
-
 h3 {
-    color: #5a4a50;
+    color: #715761;
     font-size: 16px;
     margin: 10px 0 6px 0;
 }
-
 p {
     font-size: 14px;
-    color: #666666;
+    color: black;
     margin-bottom: 8px;
 }
-
 main ul {
     margin: 6px 0 10px 20px;
-    color: #666666;
+    color: #a08585;
 }
-
 main li {
     margin-bottom: 4px;
     font-size: 14px;
 }
-
 img {
     width: 100%;
     max-width: 180px;
@@ -115,18 +95,15 @@ img {
     border-radius: 6px;
     border: 1px solid #f0e1ea;
 }
-
 .logo {
     width: 45px; 
     margin: 0 auto;
 }
-
 .logo img {
     width: 100%;
     border-radius: 50%;
     border: 2px solid #ffffff;
 }
-
 iframe {
     width: 100%;
     max-width: 450px;
@@ -136,16 +113,13 @@ iframe {
     border-radius: 6px;
     border: none;
 }
-
-
 footer {
-    background-color: #d8b4e2;
+    background-color: #b898c1;
     color: #4a3b4c;
     text-align: center;
     padding: 15px;
     margin-top: 30px;
 }
-
 footer a {
     color: #5a3d40;
     text-decoration: none;
@@ -153,8 +127,6 @@ footer a {
     font-weight: bold;
     font-size: 13px;
 }
-
-
 footer p {
     color: #4a3b4c;
     font-size: 12px;
