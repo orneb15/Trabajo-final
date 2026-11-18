@@ -1,13 +1,4 @@
-/* =========================================
-   PALETA DE COLORES (Estética Sephora)
-   ========================================= */
-:root {
-    --color-fondo: #FFFFFF;        /* Fondo blanco limpio */
-    --color-texto: #111111;        /* Negro muy oscuro para lectura */
-    --color-principal: #000000;    /* Negro total (Header y Footer) */
-    --color-acento: #E60012;       /* Rojo característico de Sephora */
-    --color-secundario: #F4F4F4;   /* Gris muy claro para tarjetas */
-}
+
 
 /* =========================================
    ESTILOS GENERALES
@@ -39,26 +30,31 @@ header {
     border-bottom: 4px solid var(--color-acento);
 }
 
-header h1 {
-    font-size: 2.2rem;
+h1 {
+    font-size: 20px;
     letter-spacing: 2px;
-    margin-bottom: 0.5rem;
+    margin: 0px;
+    padding:0px;
     text-transform: uppercase;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-header img {
-    max-width: 80px;
-    height: auto;
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
     border-radius: 50%;
 }
 
 /* =========================================
    BARRA DE NAVEGACIÓN (BOTONERA)
    ========================================= */
-nav {
-    background-color: var(--color-secundario);
+.listas {
+    background-color: rgb(90, 3, 3);
     border-bottom: 2px solid #DDDDDD;
-    padding: 0.8rem 0;
+    padding: 0px;
 }
 
 nav ul {
