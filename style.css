@@ -43,8 +43,8 @@ nav a.activo {
     color: #d4739d;
 }
 main {
-    margin: 0px;
-    padding: 0px;
+    margin: 20px auto;
+    padding: 0px 15px;
     width: 100%;
     
 }
@@ -53,8 +53,6 @@ section {
     margin-bottom: 18px;
     padding: 20px;
     border: 1px solid #b994a8;
-    border-left: none;
-    border-right: none;
 }
 article {
     margin-top: 16px;
