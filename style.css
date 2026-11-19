@@ -126,9 +126,14 @@ footer p {
     font-size: 12px;
     margin-top: 8px;
 }
-.imagenes-modo-horizontal{
+.imagenes-modo-horizontal img{
     width: auto;      
     max-width: 150px;   
     height: 150px;     
     margin: 0;          
+}
+.imagenes-modo-horizontal{
+    display: flex;
+    align-items: center;
+    margin: 12px 0;
 }
