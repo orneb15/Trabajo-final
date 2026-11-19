@@ -29,7 +29,7 @@ nav ul {
 }
 nav li {
     display: inline-block;
-    margin: 0 10px;
+    margin: 0 12px;
 }
 nav a {
     color: #534255;
@@ -43,20 +43,22 @@ nav a.activo {
     color: #d4739d;
 }
 main {
-    max-width: 850px;
-    margin: 25px auto;
-    padding: 0 15px;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    
 }
 section {
     background-color: #dab0c6;
     margin-bottom: 16px;
     padding: 20px;
     border: 1px solid #8b5a74;
+    border-left: none;
+    border-right: none;
 }
 article {
     margin-top: 16px;
     padding-top: 12px;
-    border-top: 1px solid #a58091;
 }
 h2 {
     color: #be7192;
