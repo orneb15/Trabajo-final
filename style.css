@@ -49,10 +49,10 @@ main {
     
 }
 section {
-    background-color: #dab0c6;
+    background-color: #ebd5e0;
     margin-bottom: 18px;
     padding: 20px;
-    border: 1px solid #8b5a74;
+    border: 1px solid #b994a8;
     border-left: none;
     border-right: none;
 }
@@ -86,7 +86,7 @@ main li {
     font-size: 14px;
 }
 img {
-    width: 120%;
+    width: 160%;
     max-width: 180px;
     height: auto;
     display: block;
