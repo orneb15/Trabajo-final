@@ -13,7 +13,6 @@ header {
     background-color: #fdc1c1;
     padding: 15px;
     text-align: center;
-    border-bottom: 3px solid #d89393;
 }
 h1 {
     margin-bottom: 8px;
@@ -37,7 +36,6 @@ nav a {
     font-size: 14px;
     font-weight: bold;
     padding: 5px 10px;
-    border-radius: 4px;
 }
 nav a:hover, 
 nav a.activo {
@@ -53,7 +51,6 @@ section {
     background-color: #dab0c6;
     margin-bottom: 20px;
     padding: 20px;
-    border-radius: 8px;
     border: 1px solid #8b5a74;
 }
 article {
@@ -65,7 +62,6 @@ h2 {
     color: #be7192;
     font-size: 20px;
     margin-bottom: 10px;
-    border-bottom: 2px solid #fce8f0;
     padding-bottom: 4px;
 }
 h3 {
