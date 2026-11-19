@@ -17,7 +17,7 @@ header {
 h1 {
     margin-bottom: 8px;
     color: #53393b;
-    font-size: 25px;
+    font-size: 26px;
 }
 nav {
     background-color: #bd94c8;
@@ -60,13 +60,14 @@ article {
 }
 h2 {
     color: #be7192;
-    font-size: 20px;
+    font-size: 22px;
     margin-bottom: 10px;
     padding-bottom: 4px;
+    text-align: center;
 }
 h3 {
     color: #715761;
-    font-size: 16px;
+    font-size: 18px;
     margin: 10px 0 6px 0;
     text-align: center;
 }
@@ -126,7 +127,7 @@ footer p {
     font-size: 12px;
     margin-top: 8px;
 }
-.imagenes-modo-horizontal img{
+.imagenes-modo-horizontal img {
     width: auto;      
     max-width: 150px;   
     height: 150px;     
